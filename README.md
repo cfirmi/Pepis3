@@ -1,2 +1,3 @@
-# Pepis3
-HTML/PEPISPIZZA/Pepis3
+# Navigation 
+This is a basic HTML, CSS, JQuery web page with a icon
+
